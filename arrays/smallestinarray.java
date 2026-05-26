@@ -1,7 +1,7 @@
 package arrays;
 
 public class smallestinarray {
-    //function to prin the smallest number in an array
+    //function to print the smallest number in an array
     public static void smallestInArray(){
         int array[]={3,7,2,9,1};
         int smallNum=Integer.MAX_VALUE;
