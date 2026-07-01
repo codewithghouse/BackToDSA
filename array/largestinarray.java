@@ -5,7 +5,7 @@ public class largestinarray {
         int largest = Integer.MIN_VALUE;
         for(int i=0;i<array.length;i++){
             if(largest < array[i]){
-                largest =array[i];
+                            largest =array[i];
             }
         }
         return largest;
